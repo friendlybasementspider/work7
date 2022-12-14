@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+.container{
+    position: absolute;
+    bottom: 40px;
+    left: 50%;
+    width: 40px;
+    height: 40px;
+    background: #fff;
+    transform: translateY(-80px) translateX(-50%) rotate(45deg);
+}
